@@ -1,0 +1,15 @@
+
+.my-control{
+  width: 50%;
+  position: absolute;
+  top: 50%;
+  left: 25%;
+}
+.imgSearched{
+  width :90%;
+}
+.span1{
+  font-weight: bold;
+  font-size: 200%;
+  margin-right: 10px;
+}

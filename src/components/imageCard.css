@@ -1,0 +1,12 @@
+.imgcard{
+width:500px;
+height: 500px;
+margin-bottom: 20px
+}
+@media only screen and (max-width: 550px) {
+  .imgcard{
+  width:300px;
+  height: 300px;
+  margin-bottom: 20px
+  }
+}
